@@ -3,6 +3,7 @@ Un listado de blogs sobre seguridad informática
 
 ## Blogs en Español
 
+* The Hacker Way https://thehackerway.com/ [(RSS)] (https://thehackerway.com/feed/)
 * Un informático del lado del mal http://www.elladodelmal.com/ [(RSS)] (http://feeds.feedburner.com/ElLadoDelMal)
 * Security By Default http://www.securitybydefault.com/ [(RSS)] (http://feeds.feedburner.com/SecurityByDefault)
 * Dragonjar http://www.dragonjar.org/ [(RSS)] (http://www.dragonjar.org/feed)
@@ -31,6 +32,7 @@ Un listado de blogs sobre seguridad informática
 
 ## Blogs en Ingles
 
+* Cyber Arms https://cyberarms.wordpress.com/ [(RSS)] (http://feeds.feedburner.com/CyberArms)
 * Dark Reading http://www.darkreading.com/ [(RSS)] (http://www.darkreading.com/rss_simple.asp)
 * Darknet http://www.darknet.org.uk/ [(RSS)] (http://feeds.feedburner.com/darknethackers)
 * F-Secure https://www.f-secure.com/weblog/ [(RSS)] (http://www.f-secure.com/weblog/weblog.rss)
