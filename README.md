@@ -29,6 +29,7 @@ Un listado de blogs sobre seguridad informática
 * Hipertextual http://hipertextual.com/seguridad/ [(RSS)] (http://hipertextual.com/seguridad/feed)
 * elhacker.net http://blog.elhacker.net/ [(RSS)] (http://blog.elhacker.net/feeds/posts/default?alt=rss)
 * GlobSecurity http://globbsecurity.com/ [(RSS)] (http://globbsecurity.com/feed/)
+* Ciberseguridad .blog  https://ciberseguridad.blog/ [(RSS)] (http://ciberseguridad.blog/feed/)
 
 ## Blogs en Ingles
 
